@@ -1,0 +1,78 @@
+<svg viewBox="0 0 1000 620" xmlns="http://www.w3.org/2000/svg" font-family="'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#b8541f"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="620" fill="#0a0a0a"/>
+
+  <text x="500" y="42" text-anchor="middle" fill="#b8541f" font-size="24" font-weight="700" letter-spacing="2">AWS EKS DEVOPS PLATFORM</text>
+  <text x="500" y="64" text-anchor="middle" fill="#8a7f6d" font-size="13" letter-spacing="1">source → build → scan → deploy → observe</text>
+
+  <!-- GitHub -->
+  <rect x="30" y="130" width="150" height="64" rx="4" fill="#151515" stroke="#5a3a2a" stroke-width="1.5"/>
+  <text x="105" y="157" text-anchor="middle" fill="#d4c9b1" font-size="14" font-weight="600">GitHub</text>
+  <text x="105" y="176" text-anchor="middle" fill="#8a7f6d" font-size="11">source repo</text>
+
+  <line x1="180" y1="162" x2="248" y2="162" stroke="#b8541f" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Jenkins -->
+  <rect x="250" y="105" width="220" height="114" rx="4" fill="#151515" stroke="#5a3a2a" stroke-width="1.5"/>
+  <text x="360" y="128" text-anchor="middle" fill="#d4c9b1" font-size="14" font-weight="600">Jenkins Pipeline</text>
+  <text x="360" y="150" text-anchor="middle" fill="#8a7f6d" font-size="11">multi-branch build</text>
+  <text x="360" y="170" text-anchor="middle" fill="#8a7f6d" font-size="11">SonarQube quality gate</text>
+  <text x="360" y="190" text-anchor="middle" fill="#8a7f6d" font-size="11">Trivy image scan</text>
+
+  <line x1="470" y1="162" x2="538" y2="162" stroke="#b8541f" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- ECR -->
+  <rect x="540" y="130" width="150" height="64" rx="4" fill="#151515" stroke="#5a3a2a" stroke-width="1.5"/>
+  <text x="615" y="157" text-anchor="middle" fill="#d4c9b1" font-size="14" font-weight="600">Amazon ECR</text>
+  <text x="615" y="176" text-anchor="middle" fill="#8a7f6d" font-size="11">image registry</text>
+
+  <line x1="690" y1="162" x2="758" y2="162" stroke="#b8541f" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- EKS Cluster -->
+  <rect x="760" y="95" width="210" height="180" rx="4" fill="#151515" stroke="#8b0000" stroke-width="1.5"/>
+  <text x="865" y="120" text-anchor="middle" fill="#d4c9b1" font-size="14" font-weight="600">EKS Cluster</text>
+  <rect x="780" y="135" width="170" height="36" rx="3" fill="#0a0a0a" stroke="#3a3a3a"/>
+  <text x="865" y="157" text-anchor="middle" fill="#8a7f6d" font-size="11">frontend pods</text>
+  <rect x="780" y="180" width="170" height="36" rx="3" fill="#0a0a0a" stroke="#3a3a3a"/>
+  <text x="865" y="202" text-anchor="middle" fill="#8a7f6d" font-size="11">backend pods</text>
+  <text x="865" y="255" text-anchor="middle" fill="#8a7f6d" font-size="10">Helm · Ingress · NetworkPolicies</text>
+
+  <!-- RDS -->
+  <line x1="865" y1="275" x2="865" y2="308" stroke="#b8541f" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="775" y="310" width="180" height="60" rx="4" fill="#151515" stroke="#5a3a2a" stroke-width="1.5"/>
+  <text x="865" y="336" text-anchor="middle" fill="#d4c9b1" font-size="14" font-weight="600">Amazon RDS</text>
+  <text x="865" y="355" text-anchor="middle" fill="#8a7f6d" font-size="11">managed database</text>
+
+  <!-- IaC band -->
+  <rect x="30" y="410" width="940" height="56" rx="4" fill="#1a0f0a" stroke="#5a3a2a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="50" y="433" fill="#b8541f" font-size="13" font-weight="700">TERRAFORM</text>
+  <text x="50" y="452" fill="#8a7f6d" font-size="11">VPC · EKS · RDS · ECR · S3 · Secrets Manager · Backup — provisioned as modules, no root defaults</text>
+  <text x="620" y="433" fill="#b8541f" font-size="13" font-weight="700">ANSIBLE</text>
+  <text x="620" y="452" fill="#8a7f6d" font-size="11">configures Jenkins EC2 (AL2023)</text>
+
+  <line x1="360" y1="410" x2="360" y2="219" stroke="#3a3a3a" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="865" y1="410" x2="865" y2="370" stroke="#3a3a3a" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- Observability -->
+  <line x1="865" y1="410" x2="865" y2="485" stroke="#8b0000" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="500" y="500" text-anchor="middle" fill="#8a7f6d" font-size="11" letter-spacing="1">OBSERVABILITY</text>
+
+  <rect x="330" y="515" width="140" height="56" rx="4" fill="#151515" stroke="#5a3a2a" stroke-width="1.5"/>
+  <text x="400" y="547" text-anchor="middle" fill="#d4c9b1" font-size="13" font-weight="600">Prometheus</text>
+
+  <rect x="490" y="515" width="140" height="56" rx="4" fill="#151515" stroke="#5a3a2a" stroke-width="1.5"/>
+  <text x="560" y="547" text-anchor="middle" fill="#d4c9b1" font-size="13" font-weight="600">Grafana</text>
+
+  <rect x="650" y="515" width="140" height="56" rx="4" fill="#151515" stroke="#5a3a2a" stroke-width="1.5"/>
+  <text x="720" y="547" text-anchor="middle" fill="#d4c9b1" font-size="13" font-weight="600">Loki</text>
+
+  <line x1="470" y1="543" x2="486" y2="543" stroke="#8b0000" stroke-width="1.5"/>
+  <line x1="630" y1="543" x2="646" y2="543" stroke="#8b0000" stroke-width="1.5"/>
+
+  <text x="500" y="600" text-anchor="middle" fill="#4a4038" font-size="10" letter-spacing="1">github.com/mamdouhhz/nti-final-project</text>
+</svg>
