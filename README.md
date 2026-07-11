@@ -2,29 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,50:2b0000,100:0a0a0a&height=200&section=header&text=MAMDOUH%20HAZEM&fontSize=46&fontColor=b8541f&animation=fadeIn&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=20&duration=3200&pause=900&color=b8541f&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%2F%2F+Cloud+%26+Infra+Automation;terraform+apply+--auto-approve;kubectl+get+pods+-n+production;rm+-rf+fragile_systems%2F+%26%26+rebuild()" />
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=20&duration=3200&pause=900&color=b8541f&center=true&vCenter=true&width=650&lines=Cloud+%26+Infrastructure+Automation;Building+systems+that+don't+fall+apart;Terraform.+Kubernetes.+CI%2FCD.+Repeat." />
 
 </div>
 
 <p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
-## `~/whoami`
+## SIGNAL
 
-```bash
-$ cat about_me.txt
-```
-
-I'm a **Computer Science graduate** from AASTMT (GPA 3.67, Honors) turning cloud
-infrastructure chaos into version-controlled, automated, monitored systems.
-I build production-style AWS/Kubernetes platforms end-to-end — Terraform modules,
-Ansible configuration, Jenkins pipelines with quality gates, and full observability
-stacks — then break them, rebuild them, and document what I learned.
-
-Currently open to **DevOps / Cloud Engineer** roles in Egypt, Germany, and the wider EU.
+> I'm a **Computer Science graduate** from AASTMT (GPA 3.67, Honors) who turns cloud
+> infrastructure chaos into version-controlled, automated, monitored systems.
+> I build production-style AWS/Kubernetes platforms end-to-end — Terraform modules,
+> Ansible configuration, Jenkins pipelines with quality gates, and full observability
+> stacks — then break them, rebuild them, and document what I learned.
+>
+> Currently open to **DevOps / Cloud Engineer** roles in Egypt, Germany, and the wider EU.
 
 <p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
-## `~/stack --all`
+## ARSENAL
 
 <div align="center">
 
@@ -73,7 +69,7 @@ Currently open to **DevOps / Cloud Engineer** roles in Egypt, Germany, and the w
 
 <p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
-## `~/ls projects/ --featured`
+## FIELD WORK
 
 #### 🚀 [AWS EKS DevOps Platform](https://github.com/mamdouhhz/nti-final-project)
 **Terraform · Jenkins · Ansible · Docker · Kubernetes · AWS**
@@ -97,27 +93,27 @@ Production-style WordPress/MySQL deployment with ConfigMaps, Secrets, health pro
 
 <p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
-## `~/cat experience.log`
+## TIMELINE
 
-```
-2026-07  DevOps Engineer Intern         @ iVolve Technologies
-2026-04  Cloud DevOps Engineer          @ NTI HireReady Scholarship
-2025-09  Teaching Assistant             @ AASTMT (CS111, C programming)
-2025-01  IT Specialist                  @ Egyptian Air Forces (Military Service)
-2024-08  Java Software Engineer Intern  @ Orange Egypt
-2023-08  Backend Engineer Intern        @ IOTBLUE (Go, Gin, GORM, PostgreSQL)
-```
+| Period | Role | Where |
+|---|---|---|
+| Jul 2026 | DevOps Engineer Intern | iVolve Technologies |
+| Apr – Jun 2026 | Cloud DevOps Engineer | NTI HireReady Scholarship |
+| Sep 2025 – Feb 2026 | Teaching Assistant (CS111, C) | AASTMT |
+| Jan 2025 – Feb 2026 | IT Specialist | Egyptian Air Forces (Military Service) |
+| Aug – Oct 2024 | Java Software Engineer Intern | Orange Egypt |
+| Aug – Oct 2023 | Backend Engineer Intern | IOTBLUE |
 
 <p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
-## `~/cat certifications.txt`
+## CREDENTIALS
 
 - 🎓 Red Hat System Administration I & II · Red Hat OpenShift Administration I (DO180)
 - 🎓 AWS Cloud Foundations · AWS Cloud Architecting · AWS Cloud Security Foundations
 
 <p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
-## `~/stats --github`
+## METRICS
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mamdouhhz&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=b8541f&text_color=d4c9b1&icon_color=8b0000" />
@@ -130,7 +126,7 @@ Production-style WordPress/MySQL deployment with ConfigMaps, Secrets, health pro
 
 <p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
-## `~/connect --all`
+## TRANSMIT
 
 <div align="center">
 
