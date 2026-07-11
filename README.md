@@ -54,7 +54,7 @@ This is the platform I designed for my final NTI capstone: Terraform-provisioned
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mamdouh-hazem/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=b8541f" /></a>
+<a href="https://linkedin.com/in/mamdouh-hazem/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mamdouhhazemm@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0a0a?style=flat-square&logo=gmail&logoColor=8b0000" /></a>
 <a href="https://github.com/mamdouhhz"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=b8541f" /></a>
 
