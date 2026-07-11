@@ -6,7 +6,6 @@
 
 </div>
 
-<p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
 ## SIGNAL
 
@@ -18,7 +17,6 @@
 >
 > Currently open to **DevOps / Cloud Engineer** roles in Egypt, Germany, and the wider EU.
 
-<p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
 ## ARSENAL
 
@@ -67,7 +65,6 @@
 
 </div>
 
-<p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
 ## FIELD WORK
 
@@ -91,7 +88,6 @@ Modular, highly-available three-tier AWS architecture — custom VPC across mult
 
 Production-style WordPress/MySQL deployment with ConfigMaps, Secrets, health probes, and HPA — exposed via Services/Routes and load-tested.
 
-<p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
 ## TIMELINE
 
@@ -104,14 +100,12 @@ Production-style WordPress/MySQL deployment with ConfigMaps, Secrets, health pro
 | Aug – Oct 2024 | Java Software Engineer Intern | Orange Egypt |
 | Aug – Oct 2023 | Backend Engineer Intern | IOTBLUE |
 
-<p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
 ## CREDENTIALS
 
 - 🎓 Red Hat System Administration I & II · Red Hat OpenShift Administration I (DO180)
 - 🎓 AWS Cloud Foundations · AWS Cloud Architecting · AWS Cloud Security Foundations
 
-<p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
 ## METRICS
 
@@ -124,7 +118,6 @@ Production-style WordPress/MySQL deployment with ConfigMaps, Secrets, health pro
 <img src="https://streak-stats.demolab.com?user=mamdouhhz&hide_border=true&background=0a0a0a&ring=8b0000&fire=b8541f&currStreakLabel=d4c9b1&sideLabels=d4c9b1&dates=6b6b6b" />
 </div>
 
-<p align="center"><sub>▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓</sub></p>
 
 ## TRANSMIT
 
