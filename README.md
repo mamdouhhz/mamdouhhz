@@ -88,16 +88,6 @@ Currently Building
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mamdouhhz&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -105,18 +95,6 @@ Currently Building
 <img src="https://github-profile-trophy.vercel.app/?username=mamdouhhz&theme=tokyonight&margin-w=10&no-frame=true"/>
 
 </p>
-
----
-
-# 📜 Certifications
-
-- AWS Cloud Practitioner
-- AWS Developer Associate
-- AWS SysOps Administrator
-- RHCSA (RH124 & RH134)
-- Red Hat OpenShift Administration I
-- Cisco CCNA
-- NTI Cloud DevOps Accelerator
 
 ---
 
