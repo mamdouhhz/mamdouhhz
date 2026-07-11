@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:8b0000,100:0a0a0a&height=6" width="100%" />
 
 # Mamdouh Hazem
-**Cloud & DevOps Engineer** — Cairo, Egypt · open to roles in Germany & the wider EU
+**Cloud & DevOps Engineer** — Cairo, Egypt
 
 <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=20&duration=3200&pause=900&color=b8541f&center=false&vCenter=true&width=650&lines=Building+systems+that+don't+fall+apart." />
 
